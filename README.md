@@ -14,7 +14,7 @@
 
 就酱~
 
-[](http://blog.iyzyi.com/usr/uploads/2020/06/4253813598.png)
+![](http://blog.iyzyi.com/usr/uploads/2020/06/4253813598.png)
 
-[](http://blog.iyzyi.com/usr/uploads/2020/06/2655743810.png)
+![](http://blog.iyzyi.com/usr/uploads/2020/06/2655743810.png)
 
