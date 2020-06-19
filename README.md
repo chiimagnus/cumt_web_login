@@ -13,3 +13,7 @@
 代码中有检测当前是否在线的功能，可以配合windows自带的定时任务实现掉线重连。
 
 就酱~
+
+[](http://blog.iyzyi.com/usr/uploads/2020/06/4253813598.png)
+
+[](http://blog.iyzyi.com/usr/uploads/2020/06/2655743810.png)
