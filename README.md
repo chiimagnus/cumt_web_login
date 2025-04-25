@@ -1,7 +1,5 @@
 # cumt_auto_login
-> 感谢开源项目[cumt_web_login](https://github.com/iyzyi/cumt_web_login)
-
-此项目为自动登录中国矿业大学校园网的python脚本。
+> 感谢开源项目[cumt_web_login](https://github.com/iyzyi/cumt_web_login)，其提供了自动登录中国矿业大学校园网的python脚本。
 
 ## 1. 使用教程
 
